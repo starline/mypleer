@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://ns.adobe.com/air/application/1.5">
+  <id>MusicBox</id>
+  <version>1.0</version>
+  <filename>MusicBox 3.0</filename>
+  <name>
+    <text xml:lang="ru">MusicBox | Плеер | Радио</text>
+    <text xml:lang="en">MusicBox | Player | Radio</text>
+  </name>
+  <initialWindow>
+    <title>MusicBox 3.0</title>
+    <!--<content>GooReadAir.html</content> -->
+    <content>MusicBoxAIR.swf</content>
+    <systemChrome>none</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <minimizable>true</minimizable>
+    <maximizable>false</maximizable>
+    <resizable>false</resizable>
+  </initialWindow>
+  <!-- 
+	More options:
+	http://livedocs.adobe.com/flex/3/html/File_formats_1.html#1043413
+	-->
+  <description>
+    <text xml:lang="ru">
+    </text>
+    <text xml:lang="en">
+    </text>
+  </description>
+  <copyright>Andrey Guzhva</copyright>
+  <allowBrowserInvocation>true</allowBrowserInvocation>
+  <customUpdateUI>true</customUpdateUI>
+</application>

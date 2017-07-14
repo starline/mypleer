@@ -1,0 +1,18 @@
+{
+  "name": "MyPleer | Все радиостанции онлайн",
+  "description": "Лучшие радистанции мира в одном плеере в режиме онлайн",
+  "version": "0.0.0.3",
+  "icons": {
+    "128": "images/icon_128.png"
+  },
+  
+  "app": {
+    "urls": [
+      "http://mypleer.com/"
+    ],
+    "launch": {
+      "web_url": "http://mypleer.com/"
+    }
+  }
+  
+}
